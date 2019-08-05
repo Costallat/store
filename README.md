@@ -1,0 +1,1 @@
+## Store images for client 10x and 12x. Compatible with: [OTServBR-Global](https://github.com/opentibiabr/OTServBR-Global)
